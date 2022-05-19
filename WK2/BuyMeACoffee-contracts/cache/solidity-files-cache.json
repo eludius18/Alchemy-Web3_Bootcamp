@@ -35,6 +35,41 @@
       "artifacts": [
         "BuyMeACoffee"
       ]
+    },
+    "/Users/mac-eladio/Desktop/Blockchain_Dev/Tests/Alchemy-Web3_Bootcamp/WK2/BuyMeACoffee-contracts/contracts/BuyMeACoffee.sol": {
+      "lastModificationDate": 1652787643616,
+      "contentHash": "1d088861181e34391eaa8b67d57a56da",
+      "sourceName": "contracts/BuyMeACoffee.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "BuyMeACoffee"
+      ]
     }
   }
 }
