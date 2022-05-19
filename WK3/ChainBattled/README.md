@@ -1,15 +1,12 @@
-# Basic Sample Hardhat Project
+## 3. How to Make NFTs with On-Chain Metadata - Hardhat and JavaScript
+#Youtube Video
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+https://www.youtube.com/watch?v=8FJvY4zXvPE
 
-Try running some of the following tasks:
+#Alchemy Blog Explanation
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+https://docs.alchemy.com/alchemy/road-to-web3/weekly-learning-challenges/3.-how-to-make-nfts-with-on-chain-metadata-hardhat-and-javascript
+
+#Deployed contracts
+
+https://mumbai.polygonscan.com/address/0x813b271b232f7f63de04e17c77d0f0ea75eb604f#code
